@@ -1,4 +1,4 @@
-<====================================================== CLEEN ======================================================> 
+<======================================= CLEEN =======================================> 
 
 CLEEN is an Social Meidia App where users can share spare or extra stuff they don't need or no longer use. 
 
